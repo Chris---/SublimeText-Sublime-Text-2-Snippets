@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:view}.begin_edit(${2:<command>}, ${3:<args>})]]></content>
+	<tabTrigger>view_begin_edit</tabTrigger>
+	<description>view.begin_edit</description>
+	<scope>source.python</scope>
+	</snippet>
