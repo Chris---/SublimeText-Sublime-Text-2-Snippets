@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:regionset}.add_all(${2:region_set})]]></content>
+	<tabTrigger>regionset_add_all</tabTrigger>
+	<description>regionset.add_all</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:regionset}.add(${2:region})]]></content>
+	<tabTrigger>regionset_add</tabTrigger>
+	<description>regionset.add</description>
+	<scope>source.python</scope>
+	</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:selection}.clear()]]></content>
-	<tabTrigger>selection_clear</tabTrigger>
-	<description>selection.clear</description>
-	<scope>source.python</scope>
-	</snippet>

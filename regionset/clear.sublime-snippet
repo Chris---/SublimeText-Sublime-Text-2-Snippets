@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[${1:regionset}.clear()]]></content>
+	<tabTrigger>regionset_clear</tabTrigger>
+	<description>regionset.clear</description>
+	<scope>source.python</scope>
+	</snippet>
